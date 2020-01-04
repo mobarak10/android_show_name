@@ -1,0 +1,2 @@
+include ':app', ':joy', ':joy2'
+rootProject.name='ShowName'
